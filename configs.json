@@ -1,0 +1,7 @@
+{
+    "shippingFee":{
+        "general": 0,
+        "jp": 10,
+        "hk": 10
+    }
+}

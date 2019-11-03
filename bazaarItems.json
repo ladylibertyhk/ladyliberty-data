@@ -1,0 +1,38 @@
+{
+    "Goddess15cm":{
+        "name": "Goddess 15 cm",
+        "startDate": "2019-11-01 07:00",
+        "author": "Lady Liberty",
+        "price": 30,
+        "photo": ["goddess1.png","goddess2.png","goddess3.png"],
+        "description": {
+            "en": "Goddess 15 cm description in English.",
+            "ch": "Goddess 15 cm description in Chinese.",
+            "jp": "Goddess 15 cm description in Japanese."
+        }
+    },
+    "Goddess30cm":{
+        "name": "Goddess 30 cm",
+        "startDate": "2019-11-01 07:00",
+        "author": "Lady Liberty",
+        "price": 30,
+        "photo": ["goddess1.png","goddess2.png","goddess3.png"],
+        "description": {
+            "en": "Goddess 30 cm description in English.",
+            "ch": "Goddess 30 cm description in Chinese.",
+            "jp": "Goddess 30 cm description in Japanese."
+        }
+    },
+    "Goddess45cm":{
+        "name": "Goddess 45 cm",
+        "startDate": "2019-11-01 07:00",
+        "author": "Lady Liberty",
+        "price": 30,
+        "photo": ["goddess1.png","goddess2.png","goddess3.png"],
+        "description": {
+            "en": "Goddess 45 cm description in English.",
+            "ch": "Goddess 45 cm description in Chinese.",
+            "jp": "Goddess 45 cm description in Japanese."
+        }
+    }
+}

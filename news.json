@@ -1,0 +1,22 @@
+{
+    "News Init Commit":{
+        "title": "News Init Commit",
+        "date": "2019-11-01 07:00",
+        "author": "Lady Liberty",
+        "content": {
+            "en": "English content",
+            "ch": "Chinese content",
+            "jp": "Japanese content"
+        }
+    },
+    "News Init Commit - 2":{
+        "title": "News Init Commit - 2",
+        "date": "2019-11-01 07:00",
+        "author": "Lady Liberty",
+        "content": {
+            "en": "English content - 2",
+            "ch": "Chinese content - 2",
+            "jp": "Japanese content - 2"
+        }
+    }
+}
