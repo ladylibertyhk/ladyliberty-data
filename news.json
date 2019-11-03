@@ -1,5 +1,5 @@
-{
-    "News Init Commit":{
+[
+    {
         "title": "News Init Commit",
         "date": "2019-11-01 07:00",
         "author": "Lady Liberty",
@@ -9,7 +9,7 @@
             "jp": "Japanese content"
         }
     },
-    "News Init Commit - 2":{
+    {
         "title": "News Init Commit - 2",
         "date": "2019-11-01 07:00",
         "author": "Lady Liberty",
@@ -19,4 +19,4 @@
             "jp": "Japanese content - 2"
         }
     }
-}
+]
